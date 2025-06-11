@@ -45,7 +45,7 @@ Desarrollo de un modelo de optimización para resolver problemas complejos en in
 
 - 📧 juan.parrac@outlook.es
 - 🐙 [GitHub](https://github.com/Jdparra2004)  
-- 🌐 [LinkedIn](https://linkedin.com/in/juan-david-parra-cantor-859335367) *(opcional, si lo tienes)*  
+- 🌐 [LinkedIn](https://linkedin.com/in/juan-david-parra-cantor-859335367)
 - 📸 [Instagram](https://instagram.com/jdparra20/)
 
 ---
