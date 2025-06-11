@@ -3,7 +3,7 @@
 🎓 Estudiante de Ingeniería Química en la Universidad Pontificia Bolivariana (UPB)  
 🧪 Apasionado por la biotecnología, la programación y el diseño sostenible  
 💻 Full-time curioso — mezclo ciencia, datos, diseño y código  
-🌱 Actualmente desarrollando una compostera inteligente en Honduras y modelos de optimización multi-objetivo en Python
+🌱 Actualmente presentando un proyecto de Biotecnología en el COLAEIQ 2025 en Honduras y trabajando en modelos de optimización multi-objetivo en Python
 
 ---
 
