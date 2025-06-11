@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Juan David Parra
 
-![Juan David Parra](https://github.com/Jdparra2004/Jdparra2004/blob/main/profile-pic.jpg)
-
 🎓 Estudiante de Ingeniería Química en la Universidad Pontificia Bolivariana (UPB)  
 🧪 Apasionado por la biotecnología, la programación y el diseño sostenible  
 💻 Full-time curioso — mezclo ciencia, datos, diseño y código  
