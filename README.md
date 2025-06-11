@@ -24,9 +24,9 @@
 
 ## 🚀 Proyectos Actuales
 
-### ♻️ Compostera Biotecnológica para comunidades rurales (Honduras)
-**Proyecto académico de cooperación internacional**  
-Diseño de una compostera modular e inteligente, enfocada en sostenibilidad, educación ambiental y gestión de residuos.
+### ♻️ Proyecto de Biotecnología en una compsotera para presentación COLAEIQ 2025 (Honduras)
+**Proyecto académico para presentación internacional**  
+Diseño de una compostera modular y optimizada, enfocada en sostenibilidad, educación ambiental y gestión de residuos.
 
 ### 🧮 Optimización Multi-Objetivo con Python
 **Aplicación de algoritmos evolutivos**  
@@ -43,10 +43,10 @@ Desarrollo de un modelo de optimización para resolver problemas complejos en in
 
 ## 📫 Contacto
 
-- 📧 jdparra2004@ejemplo.com *(reemplaza por tu correo si deseas)*  
+- 📧 juan.parrac@outlook.es
 - 🐙 [GitHub](https://github.com/Jdparra2004)  
-- 🌐 [LinkedIn](https://linkedin.com/in/juan-david-parra) *(opcional, si lo tienes)*  
-- 📸 [Instagram](https://instagram.com/tuusuario) *(opcional)*
+- 🌐 [LinkedIn](https://linkedin.com/in/juan-david-parra-cantor-859335367) *(opcional, si lo tienes)*  
+- 📸 [Instagram](https://instagram.com/jdparra20/)
 
 ---
 
