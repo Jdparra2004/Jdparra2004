@@ -16,10 +16,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Adobe_Premiere_Pro_Logo.svg" alt="Premiere Pro" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Scilab_logo.svg" alt="Scilab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" alt="AutoCAD" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jdparra2004/Recursos_README/main/icons/premiere.jpg" alt="Premiere Pro" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jdparra2004/Recursos_README/main/icons/scilab.jpg" alt="Scilab" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
+
 
 ---
 
