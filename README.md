@@ -33,13 +33,23 @@
 
 ## 🚀 Proyectos Actuales
 
-### ♻️ Proyecto de Biotecnología en una compsotera para presentación COLAEIQ 2025 (Honduras)
-**Proyecto académico para presentación internacional**  
-Diseño de una compostera modular y optimizada, enfocada en sostenibilidad, educación ambiental y gestión de residuos.
-
 ### 🧮 Optimización Multi-Objetivo con Python
 **Aplicación de algoritmos evolutivos**  
 Desarrollo de un modelo de optimización para resolver problemas complejos en ingeniería usando `pymoo` y visualización de Pareto Fronts.
+Desarrollado en la Universidad Pontificia Bolivariana - Semillero Automática y Diseño A+D y Semillero Termofluidos y Conversión de Energía
+---
+
+## 🚀 Proyectos Finalizados
+
+### ♻️ Proyecto de Biotecnología de producción de ácido acético y celulosa bacteriana para presentación COLAEIQ 2025 (Honduras)
+**Proyecto académico para presentación internacional (Proyecto Ganador Concurso de Carteles)**  
+Diseño de proceso para la obtención de Celulosa bacteriana y ácido acético, para poder comparar con los ácidos comerciales.
+Nombre Proyecto: Producción de ácido acético y celulosa bacteriana mediante la fermentación espontánea del jugo de caña de azúcar.
+
+### ♻️ Proyecto de Biotecnología en una compsotera para presentación COLAEIQ 2025 (Honduras)
+**Proyecto académico para presentación internacional**  
+Diseño de una compostera modular y optimizada, enfocada en sostenibilidad, educación ambiental y gestión de residuos.
+Nombre Proyecto:  Revalorización de residuos de Poda de una universidad para la producción de fertilizante hacia una economía circular.
 
 ---
 
