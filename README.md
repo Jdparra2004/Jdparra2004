@@ -3,7 +3,8 @@
 🎓 Estudiante de Ingeniería Química en la Universidad Pontificia Bolivariana (UPB)  
 🧪 Apasionado por la biotecnología, la programación y el diseño sostenible  
 💻 Full-time curioso — mezclo ciencia, datos, diseño y código  
-🌱 Actualmente presentando un proyecto de Biotecnología en el COLAEIQ 2025 en Honduras y trabajando en modelos de optimización multi-objetivo en Python
+🌱 Ganador Concurso de Carteles en COLAEIQ 2025 (Honduras) con el proyecto "Producción de ácido acético y celulosa bacteriana mediante la fermentación espontánea del jugo de caña de azúcar"
+💻 Trabajando en modelos de optimización multi-objetivo en Python 
 
 ---
 
