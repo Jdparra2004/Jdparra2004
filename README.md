@@ -35,7 +35,7 @@
 
 ### 🧮 Optimización Multi-Objetivo con Python
 **Aplicación de algoritmos evolutivos**  
-Desarrollo de un modelo de optimización para resolver problemas complejos en ingeniería usando `pymoo` y visualización de Pareto Fronts.
+Desarrollo de un modelo de optimización para resolver problemas complejos en ingeniería usando `Scipy and Pyomo` y visualización de Pareto Fronts.
 Desarrollado en la Universidad Pontificia Bolivariana - Semillero Automática y Diseño A+D y Semillero Termofluidos y Conversión de Energía
 ---
 
