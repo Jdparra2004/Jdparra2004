@@ -75,6 +75,4 @@ Nombre Proyecto:  Revalorización de residuos de Poda de una universidad para la
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jdparra2004&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdparra2004&layout=compact&theme=radical)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/apiJdparra2004=FajarKim)](https://github.com/FajarKim/github-readme-profile)
