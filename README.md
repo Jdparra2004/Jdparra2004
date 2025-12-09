@@ -72,7 +72,3 @@ Nombre Proyecto:  Revalorización de residuos de Poda de una universidad para la
 > *"El futuro pertenece a quienes creen en la belleza de sus sueños." – Eleanor Roosevelt*
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-[![GitHub Stats](https://gh-readme-profile.vercel.app/apiJdparra2004=FajarKim)](https://github.com/FajarKim/github-readme-profile)
