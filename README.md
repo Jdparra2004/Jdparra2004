@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Jdparra2004/Jdparra2004/main/icons/premiere.jpeg" alt="Premiere Pro" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Jdparra2004/Jdparra2004/main/icons/logo_octave.png" alt="Premiere Pro" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Jdparra2004/Jdparra2004/main/icons/js.png" alt="Premiere Pro" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/Jdparra2004/Jdparra2004/main/icons/JavaScript-logo.png" alt="Premiere Pro" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
